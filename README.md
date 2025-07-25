@@ -32,11 +32,7 @@ The evaluation metric for this competition is **Accuracy**.
 
 Accuracy is defined as the percentage of correctly classified instances with respect to the total number of evaluated samples:
 
-<p align="center">
-  <img src="images/accuracy_formula.png" alt="Accuracy Formula" width="400">
-</p>
-
-Where: Accuracy = (True Positives + True Negatives) / Total Evaluated Instances
+Accuracy = (True Positives + True Negatives) / Total Evaluated Instances
 
 ## 📁 Repository Structure
 
