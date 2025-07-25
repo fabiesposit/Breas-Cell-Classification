@@ -13,8 +13,6 @@ These images typically contain **multiple optical channels**, each corresponding
 This project was developed as part of a **mini contest** organized by the *University of Naples Federico II* for the **Machine Learning** course.  
 The objective was to design and train a **deep neural network** for binary classification of breast cells, aiming to maximize the prediction **Accuracy** on a given test set.
 
-The student achieving the best performance was required to present their methodology during the class session on **June 6th**. If the solution and explanation were evaluated positively, the author would be exempted from the final exam.
-
 ---
 
 ## 🎯 Objective
