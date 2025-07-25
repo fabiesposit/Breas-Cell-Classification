@@ -33,13 +33,3 @@ The evaluation metric for this competition is **Accuracy**.
 Accuracy is defined as the percentage of correctly classified instances with respect to the total number of evaluated samples:
 
 Accuracy = (True Positives + True Negatives) / Total Evaluated Instances
-
-## 📁 Repository Structure
-
-```bash
-├── data/                 # Dataset (not included in repo)
-├── models/               # Trained models or scripts to train them
-├── notebooks/            # Jupyter or KNIME workflows
-├── results/              # Evaluation results, charts, and confusion matrices
-├── README.md             # Project description
-└── requirements.txt      # Python dependencies (if applicable)
