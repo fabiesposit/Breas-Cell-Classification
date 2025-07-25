@@ -60,4 +60,5 @@ The classification task is **binary**:
 The evaluation metric for this competition is **Accuracy**.
 
 Accuracy is defined as the percentage of correctly classified instances with respect to the total number of evaluated samples:
+
 Accuracy = (True Positives + True Negatives) / Total Evaluated Instances
